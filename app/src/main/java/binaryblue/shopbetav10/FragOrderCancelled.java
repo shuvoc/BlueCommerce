@@ -7,9 +7,9 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-public class Frag3 extends Fragment
+public class FragOrderCancelled extends Fragment
 {
-    public Frag3()
+    public FragOrderCancelled()
     {
 
     }
@@ -18,7 +18,7 @@ public class Frag3 extends Fragment
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
         // Defines the xml file for the fragment
-        View view = inflater.inflate(R.layout.frag1, container, false);
+        View view = inflater.inflate(R.layout.frag_test, container, false);
         /////////////////////////////////////////////////////////////////////////////////////
 
         //////////////////////////////////////////////////////////////////////////////////////

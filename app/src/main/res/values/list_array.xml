@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sports_array">
+        <item>Rafiq-uttara</item>
+        <item>kamal - Basabo</item>
+        <item>Ashraf - Banani</item>
+        <item>Abdul aziz - chittagong</item>
+        <item>Tushar - Khilgaon</item>
+        <item>Ashbab - shyamoli</item>
+        <item>Hridoy - uttara</item>
+        <item>Tushar - Khilgaon</item>
+        <item>Ashbab - shyamoli</item>
+        <item>Hridoy - uttara</item>
+        <item>Tushar - Khilgaon</item>
+        <item>Ashbab - shyamoli</item>
+        <item>Hridoy - uttara</item>
+        <item>Tushar - Khilgaon</item>
+        <item>Ashbab - shyamoli</item>
+        <item>Hridoy - uttara</item>
+    </string-array>
+</resources>

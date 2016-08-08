@@ -1,30 +1,34 @@
 package binaryblue.shopbetav10;
 
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 
 
-public class Frag2 extends Fragment
+public class FragPaid extends Fragment
 {
-    public Frag2()
+    public FragPaid()
     {
 
     }
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
         // Defines the xml file for the fragment
-        View view = inflater.inflate(R.layout.frag2, container, false);
+        View view = inflater.inflate(R.layout.frag_test, container, false);
         /////////////////////////////////////////////////////////////////////////////////////
-        
+
         //////////////////////////////////////////////////////////////////////////////////////
         return view;
     }
+
+
+
+
+
 }
 
 
